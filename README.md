@@ -28,7 +28,7 @@ The neural network was trained using the Adam optimizer and binary cross-entropy
 
 
 ## Evaluation
-The final model is evaluated on the test set and achieved an accuracy of 76.80% and a loss of 57.13%.
+The final model is evaluated on the test set and achieved an accuracy of 76.80% and a loss of 0.5713. The loss value of 0.5713 represents the average discrepancy between the predicted probabilities of COVID-19 cases and the actual COVID-19 cases in the test set.
 
 ## Conclusion
 
